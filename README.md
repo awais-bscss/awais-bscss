@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Muhammad Awais 👋
 
-<!--
-**awais-bscss/awais-bscss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer from Pakistan 🇵🇰 specializing in Next.js & MERN stack.
 
-Here are some ideas to get you started:
+## 🛠️ Projects
+- [WebToolsHub](https://www.webtoolshub.online) — 50+ free browser-based developer tools. No signup, no ads.
+- [awesome-free-developer-tools](https://github.com/awais-bscss/awesome-free-developer-tools) — Curated list of free dev tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+Next.js · React · Node.js · MongoDB · TypeScript · Tailwind CSS
+
+## 📫 Contact
+awais.techstack@gmail.com
